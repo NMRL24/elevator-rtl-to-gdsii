@@ -1,0 +1,10 @@
+elivator_sim
+dump.vcd
+*.vcd
+OpenROAD-flow-scripts/
+results/**/*.odb
+results/**/*.gds
+results/**/*.spef
+results/**/*.def
+*.log
+*.tmp
